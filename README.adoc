@@ -487,11 +487,13 @@ image:applicationbanque.svg[]
 +
 [WARNING]
 ====
-Ca marche ?
+Ca marche ? 
+oui ça marche.
 ====
 +
 .	Vous pouvez créer les autres actions et sous-menus.
 .	Pourquoi ActionList hérite de Action à votre avis ?
+parce que
 +
 [WARNING]
 ====
